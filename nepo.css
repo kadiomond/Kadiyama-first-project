@@ -1,0 +1,36 @@
+.ifoto {
+  width: 42%;
+  margin-top:-253px; 
+    }
+.gahima{
+  margin-top: 4px; 
+  text-align:left;
+  margin-left: 700px;
+  font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.skills{
+  text-align: left;
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.ifoto1{
+  margin-top: 5px;
+  width:45%;
+  margin-left: 700px;
+}
+.ifoto2{
+ width:45%;
+  margin-left: 700px; 
+}
+.last{
+  margin-top: -799px;
+ text-align: left;
+  margin-right: 700px;
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, 
+}
+body{
+  background-color: gray;
+}

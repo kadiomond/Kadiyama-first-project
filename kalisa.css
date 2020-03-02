@@ -1,0 +1,42 @@
+.one{
+    background-color:#D3D3D3;
+    font-weight:italic;
+    font-family:sens-serif;
+    font-size: 22px;
+  }
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: black;
+
+}
+  .two{
+    margin-right: 30px;
+    width: 40%;
+    height: 450px;
+    }
+  .three{
+    text-align:left;
+    margin-left: 600px;
+    margin-top: -455px;
+    margin-bottom:40px;
+    }
+  .four{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: black;
+    margin-top: 80px;
+    }
+  .aba{
+    margin-right: 30px;
+    width: 40%;
+    height: 450px;
+  }
+  .six{
+    text-align:left;
+    margin-left: 600px;
+    margin-top: -455px;
+    margin-bottom:40px;
+  }
+  
